@@ -1,4 +1,4 @@
-POOL=us.unmineable.com:3333
+POOL=us.unmineable.com:13333
 WALLET=$1:$2
 WORKER=$3
 ALGO=wrkzcoin
